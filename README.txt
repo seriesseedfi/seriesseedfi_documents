@@ -15,13 +15,11 @@ Creative Commons: Attribution 3.0
 
 See the site for more information: http://seriesseed.fi
 
-==============================================================
 
 AUTHORS
 
 Jukka Kallio & Tom Laakso from http://www.kalliolaw.com/
 
-==============================================================
 
 CHANGELOG
 
