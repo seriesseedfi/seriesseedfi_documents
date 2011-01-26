@@ -1,0 +1,752 @@
+SHAREHOLDERS. AGREEMENT
+
+BETWEEN
+
+[ADD NAMES OF SHAREHOLDERS]
+
+ AND
+
+[ADD NAME OF THE COMPANY]
+
+REGARDING
+
+[ADD NAME OF THE COMPANY]
+
+DATED [ADD DATE], 2011
+
+**
+
+**
+
+****
+
+**SHAREHOLDERS. AGREEMENT**
+
+#  1.                 PARTIES
+
+This Shareholders. Agreement (this .Agreement.) is made and entered into on
+[DATE] (.Effective Date.) by and among the following parties:
+
+####  (a)               [NAME OF FOUNDER] [PERSONAL / BUSINESS ID]; Address
+[ADRESS];
+
+####  (b)              [NAME OF FOUNDER] [PERSONAL / BUSINESS ID]; Address
+[ADRESS];
+
+####  (c)               [NAME OF INVESTOR] [PERSONAL / BUSINESS ID]; Address
+[ADRESS];
+
+####  (d)              [NAME OF INVESTOR] [PERSONAL / BUSINESS ID]; Address
+[ADRESS];
+
+####  (e)               new Shareholder, who has adhered to this Agreement by
+means of a separate adherence agreement as the new Investor and the new
+Shareholder, or as the new Working Shareholder and the new Shareholder; and
+
+####  (f)               [NAME OF THE COMPANY] [BUSINESS ID]; Address [ADRESS]
+(.Company.).
+
+The Parties (a) . ([b]) are hereinafter referred to collectively as the
+.Founders. and each separately as a .Founder.. The Parties ([c]) . ([d]) and
+the new Investor, as the case may be, are hereinafter referred to collectively
+as the .Investors. and each separately as an .Investor.. The Parties (a) .
+([e]) are hereinafter referred to collectively as the .Shareholders. and each
+separately a .Shareholder.. The Founders and new Shareholders having adhered
+to this Agreement as new Working Shareholders, are hereinafter referred to
+collectively as the .Working Shareholders. and each separately as a .Working
+Shareholder.. The Parties (a) . ([f]) are hereinafter referred to collectively
+as the .Parties. and each separately as a .Party..
+
+#  2.                 BACKGROUND AND THE PURPOSE
+
+In this Agreement the Parties agree on certain rights and obligations of the
+Shareholders and the Company and on the management and the Company.
+
+The goal of the Parties is to manage and develop the business and the
+operations of the Company to maximize the value of the Shares. The intention
+of the Parties is also to raise funds to the Company and all the Parties
+acknowledge and understand that it will require the Shareholders entering into
+a new Shareholders. Agreement and that the new equity provider may require
+preferred shares to be issued to him.
+
+The Parties may also enter into a minority shareholders. agreement to which
+certain minority shareholders and/or transferee of Shares are required to
+adhere as decided by the Board of Directors in accordance with this Agreement.
+The Parties warrant that they have carefully and independently evaluated the
+rights and obligations arising out of this Agreement and the risks and
+possibilities relating to this Agreement.
+
+#  3.                 GENERAL OBLIGATION
+
+The Shareholders agree to contribute to that the Company would be successful
+and would be able to achieve the objectives set in the business plan (as
+amended from time to time) of the Company.
+
+Each Shareholder undertakes, also through the members of the Board of
+Directors or other representatives appointed by him, at the Shareholders.
+Meetings and the meetings of the Board of Directors, to exercise his voting
+rights and to act in a way necessary to ensure the proper realization of and
+compliance with the terms of this Agreement and the Articles of Association.
+
+#  4.                 SHARE CLASSES
+
+##  4.1             Common and Preference Shares
+
+The Company has two separate classes of shares: common shares (.**Common
+Shares**.) and preferred series A shares (.**Series A Shares**.). Series A
+Shares shall have preference set out in Section 4.2 over the Common Shares in
+the Liquidation Events (as defined below in Section 4.2) and shall be
+convertible into Common Shares at any time as set out in Section 4.3 below but
+otherwise the Common Shares and Series A Shares shall have the same rights in
+the Company. All the shares shall carry one vote each.
+
+For the purposes of this Agreement the .**Shares**. shall mean in addition to
+any class of shares (including the Common Shares and Series A Shares), all
+securities entitling to new shares in the Company, e.g. convertible loans and
+option rights, and any other special rights or instruments which entitle to
+subscribe to or convert into shares in the Company as well as the contractual
+subscription and redemption rights based on which shares in the Company can be
+acquired.
+
+##  4.2             Liquidation Preference
+
+In the event of any Liquidation Event of the Company, the proceeds shall be
+paid to the Shareholders as follows:
+
+####  (a)               First the greater of: (i) one time the original
+subscription price paid for Series A Share added with declared but unpaid
+dividends on each Series A Share; or (ii) the amount holder of Series A Share
+would have received had the Series A Share been converted into Common Share
+immediately prior to the Liquidation Event.
+
+####  (b)              Secondly, the remaining proceeds shall be distributed
+to the holders of Common Shares on a pro-rata basis.
+
+For the purposes of this Agreement, .**Liquidation Event**. shall mean any of
+the following events:
+
+#####  (i)                a merger or consolidation (other than one in which
+shareholders of the Company own a majority by voting power of all the
+outstanding shares of the surviving or acquiring company);
+
+#####  (ii)              other kind of single transaction, or series of
+related transactions, in which control, i.e. at least 50.01 % or more of all
+the Shares or votes, are transferred;
+
+#####  (iii)            a sale, lease, transfer, exclusive license or other
+disposition of all or substantially all of the assets of the Company; or
+
+#####  (iv)            a liquidation or bankruptcy of the Company.
+
+##  4.3             Conversion
+
+Each Series A Share shall be convertible into one (1) Common Share at any time
+at the option of the holder, subject to adjustments for stock splits, reverse
+splits and the like.
+
+#  5.                 SHARE CERTIFICATES
+
+The Company has not issued any share certificates representing the Shares. The
+Shareholders hereby waive their right pursuant to the Finnish Companies Act to
+require the Board of Directors to issue share certificates, interim
+certificates, option certificate or similar securities.
+
+#  6.                 FUTURE FINANCING
+
+##  6.1             General
+
+Parties acknowledge and accept that the Company may from time to time issue
+new Shares strictly in accordance with this Agreement.
+
+All Investors shall have a pro rata right, but not an obligation, to
+participate in subsequent issuances of any Shares on the same terms and
+conditions than any other Shareholder or third party investor or financer. In
+addition, should any Investor choose not to purchase or subscribe to its full
+pro rata share (calculated based on the Investor.s then-current shareholding)
+in such issuances of any Shares, the other Investors shall have the right to
+purchase or subscribe to the remaining pro rata share of the Shares. In the
+event an Investor has not replied or notified the Company of his participation
+in issuance of the Shares in writing within fourteen (14) days after having
+received a notice by letter or email from the Company about the terms of the
+financing, he shall be deemed to have irrevocably waived his right to his pro
+rata part of issued Shares.
+
+##  6.2             Third Party Financing
+
+In the event that the Company is raising funds (such as third party financer
+as mentioned under Section 6.1) the Shareholders understand that there may be
+a need to enter into a new shareholders. agreement or other agreements (such
+as investment agreement or subscription agreement) regarding the Company
+and/or to amend the Articles of Association as well as take other actions to
+secure the Company.s financing. Therefore, the Shareholders commit to vote in
+favour of any decisions in the Shareholders. Meetings of the Company relating
+to amending the Articles of Association, directed Share issues, other
+corporate resolution on financing and any other matters required to complete
+the fund raising provided more than 2/3 of Series A Shares and of the Common
+Shares vote for it. The Shareholders shall also sign and execute any
+shareholders. agreement or other agreement (such as investment agreement or
+subscription agreement) required for completion of the above actions. If a
+Shareholder does not execute such agreement(s) or vote in favour of the above
+actions simultaneously with the other Shareholders he shall be deemed to have
+appointed the Investors or any person appointed by the Investors for that
+purpose to be his agent and attorney to execute all necessary agreements, to
+vote in favour of any matters and to take any other actions on his behalf.
+
+#  7.                 GOVERNANCE OF THE COMPANY
+
+The Board of Directors shall consist of the minimum of three (3) members and
+the maximum of five (5) members, of which two members and their personal
+deputy members shall be elected by holders of a majority of Common Shares, one
+elected by holders of a majority of the Series A Shares. Other members of the
+Board of Directors shall be appointed by the Shareholders in accordance with
+the Finnish Companies Act and this Agreement.
+
+In addition to any other approval required under the Finnish Companies. Act
+and the Company.s Articles of Association, the Company shall not, without the
+written consent of the majority holders of the Series A Shares:
+
+#####  (i)                adversely change the rights of the Series A Shares
+or amend the Articles of Association;
+
+#####  (ii)              issue, redeem, purchase or otherwise acquire, or sell
+or otherwise transfer any Shares;
+
+#####  (iii)            declare or pay any dividend or make a decision on
+other asset distributions;
+
+#####  (iv)            guarantee any indebtedness, save for trade accounts of
+the Company, or incur any indebtedness in excess of EUR [add];
+
+#####  (v)              make any loan or advance, except for a wholly owned
+subsidiary;
+
+#####  (vi)            change the number of directors;
+
+#####  (vii)          merge, demerge, liquidate or dissolve the Company,
+including any Liquidation Event;
+
+#####  (viii)        transfer, lease, license (other than licenses granted in
+the ordinary course of business on a non-exclusive basis), pledge or encumber
+assets or rights material to the Company.s business;
+
+#####  (ix)            any contract or assignment with a Shareholder or his
+immediate family member or any entity controlled by a Shareholder and/or his
+immediate family member(s);
+
+#####  (x)              hire, fire or amend the terms of employment contracts
+of key persons Working Shareholders.
+
+Any and all matters referred to in this Section 7 concerning an affiliate
+(including a subsidiary, joint venture or branch) of the Company shall require
+the same majority as set out above in this Section 7.
+
+#  8.                 REPURCHASE OF SHARES FROM WORKING SHAREHOLDERS
+
+The Common Shares owned by the Working Shareholders are subject to right to
+buyback, if such Working Shareholder.s employment is terminated with Cause as
+defined in this Section 8 below, first by the Company and secondly by the
+Investors pro rata to their then-current ownership of the Shares on an as-
+converted basis. In the event one or more Investors do not wish to exercise
+such right the outstanding Investors exercising the buyback right shall be
+entitled to buyback such Shares on pro rata basis. The buyback right shall
+lapse upon the Working Shareholders. Shares becoming vested. The Working
+Shareholder.s Shares shall vest in equal monthly increments over following
+forty-eight (48) months calculated from (i) for the Founders from the
+Effective Date; and (ii) for a Working Shareholder other than Founders as
+agreed in a separate adherence agreement, during which time period the
+respective Working Shareholder.s employment agreement is in force, thus
+hundred percent (100%) of each Working Shareholder.s Shares will vest in four
+(4) years. Notwithstanding anything to the contrary above, the Board of
+Directors shall have in accordance with Section 7 the right to agree on
+deviations to the above vesting period (48 months) on a case by case basis in
+writing, subject to the written consent of a member of the Board of Directors
+appointed by holders of the Series A Shares.
+
+A Liquidation Event shall accelerate the vesting of the unvested Working
+Shareholder.s Shares in a way that all the Working Shareholder.s unvested
+Shares will vest in two (2) years following a Liquidation Event, if such
+Working Shareholder.s unvested Shares would not have vested earlier otherwise.
+
+All unvested Shares will vest if Working Shareholder.s employment is
+terminated without a Cause. For the purpose of this Section 8, a .**Cause**.
+shall mean: 
+
+#####  (i)                termination of the employment agreement under
+Finnish Employment Contract Act or other applicable laws based on employee.s
+fault or person other than as a result of death, disability or serious illness
+of the Working Shareholders, whether after notice period or not; or
+
+#####  (ii)              termination or cancellation of the managing director
+or other director contract based on corresponding reasons as if the managing
+director were treated as an employee (taken into account his tasks) under
+Finnish Employment Contract Act or other applicable law based on employee.s
+fault or person; or
+
+#####  (iii)            termination of the employment agreement, the managing
+director or other director agreement by the Working Shareholders; or
+
+#####  (iv)            a material breach of this Agreement which remains
+uncured (if possible to be cured) for a period of thirty (30) days after the
+Working Shareholders received a written notice from the Company and/or any
+Shareholder of the breach.
+
+#####  The Cause shall be deemed to be occurred when the Company or its
+affiliate validly terminates the Working Shareholder.s employment for reasons
+specified in this Section 8 or when the Working Shareholders terminates his
+employment. The price for the repurchased Working Shareholder.s unvested
+Shares shall be the lower of (i) the original purchase and/or subscription
+price paid by the respective Working Shareholders; or (ii) the fair market
+value of such Share.
+
+The termination of the Working Shareholder.s employment based on the Cause
+shall be deemed as an offer from such a Working Shareholders to the Company
+and the Investors. The notice regarding the use of the right to acquire the
+Working Shareholder.s unvested Shares under this Section 8 shall be given by
+the Company to all the Investors within two (2) months from the effective
+termination date of the Working Shareholder.s employment or other similar
+contract. If the Company has not confirmed within the above two months period
+that it will acquire all the respective Working Shareholder.s unvested Shares,
+then the Investors shall have, pro rata to their then-current shareholdings,
+the right to acquire the remaining of the Working Shareholder.s unvested
+Shares within two (2) months from the Company.s above notice.
+
+If the Company or the Investors have not required the respective Working
+Shareholder.s unvested Shares to be acquired, the respective Working
+Shareholders shall have the right to keep also the unvested Shares.
+
+The transfer of the Working Shareholder.s repurchased unvested Shares shall
+take place no later than within fourteen (14) days of the above two (2) months
+time periods, as applicable, in accordance with the Share Transfer Agreement
+in a form of _Exhibit 1_. In the event the Working Shareholder will not sign
+the Share Transfer Agreement, the acquisition and transfer of title of the
+repurchased Shares shall be regarded to have been made upon the Company and/or
+the Investor notifying the respective Working Shareholder of his confirmation
+to acquire such Working Shareholder.s unvested Shares or part of them.
+
+#  9.                 TRANSFER OF SHARES
+
+##  9.1             Limitations on Transfer 
+
+For the purposes of this Agreement .**Transfer**. shall mean shall mean, with
+respect to any Shares or any interest therein, (i) to offer, sell, grant any
+pledge, option, right or warrant to purchase or purchase, any option or lend
+or otherwise transfer or dispose of, directly or indirectly, any such Shares
+or interests therein; or (ii) enter into any swap or other arrangement that
+transfers to any third party, in whole or in part, any of the economic rights
+of any Shares or interests therein, whether any such transaction described in
+clause (i) or (ii) above is to be settled in cash, by delivery of any shares
+or interests in any other legal entity or otherwise. When used as a noun, the
+term Transfer shall have the correlative meaning.
+
+The Parties undertake that they shall not, directly or indirectly, Transfer
+any Shares or any rights and/or interest therein contrary to the terms and
+conditions of this Agreement and the redemption clause of the Company.s
+Articles of Association.
+
+Unless otherwise expressly agreed in this Agreement, no transferee, including
+but not limited to any new person or entity subscribing for the Shares in the
+Company, of the Shares shall become a shareholder of the Company, and no
+Shares shall be transferred on the books and records of the Company, until the
+transferee executes a written adherence agreement to this Agreement and/or to
+a minority shareholders. agreement, as the case may be, in the form and
+substance satisfactory to the Board of Directors (including vote of a member
+appointed by the holders of the Series A Shares) as representative of the
+Parties to this Agreement, under which the transferee assumes all or part of
+the obligations of the transferor under this Agreement and agrees to be bound
+by and subject to all of the terms and conditions of this Agreement and/or the
+minority shareholders. agreement as the case may be, including any amendments
+made thereto.  The Shareholders hereby irrevocably authorize the Company.s
+Board of Directors to sign and execute such adherence agreement to this
+Agreement and/or to the minority shareholders. agreement (as the case may be)
+on behalf of all the Parties on the terms and conditions decided by the Board
+of Directors in accordance with this Agreement.
+
+Notwithstanding anything else stated in this Agreement or the Company.s
+Articles of Association, each of the Investors may freely Transfer the Shares
+held by it to any fund(s) or companies owned or controlled by the Investor,
+any parent company (up and including the ultimate parent company) of the
+Investor, or any general or limited partner or shareholder of the Investor,
+provided that the respective transferee prior to such Transfer shall have
+agreed in writing to be bound by the terms of this Agreement applicable to the
+said Investor.
+
+All the Shareholders shall irrevocably waive their rights under the redemption
+clause of the Articles of Association in connection with a Transfer of the
+Shares under this Section 9.
+
+##  9.2             Right of First Refusal
+
+If a Shareholder other than holder of  Series A Shares wishes to Transfer a
+part or all of his Shares (.**Transferring Shareholder**.), the Shares shall
+be offered first for redemption for the Company and secondly, to the
+Shareholders on a pro rata to the Shareholders. then current shareholdings
+basis.
+
+If the Company wishes to use its right for redemption as provided for in the
+Finnish Companies Act with respect to the acquisition of the company.s own
+Shares, it has to notify the Transferring Shareholder within thirty (30) days
+from the date when the Shares have been offered to the Parties for redemption
+against cash consideration under the terms and conditions contained in the
+notice, which includes at least the following terms: purchase price, payment
+terms of the purchase price, date of transfer of the title and other essential
+terms of the Transfer.
+
+If the Company does not use its redemption right or does not use it with
+respect to all of the Shares, the other Shareholders have the secondary right
+within fourteen (14) days from the end of the above thirty (30) days period
+the right to (but not obligation) to redeem the Transferring Shareholder.s
+remaining Shares against cash consideration in accordance with the terms
+specified in the notice of the Transferring Shareholder. If more than one
+Shareholder wishes to use his right for redemption, the Shares shall be
+divided between such Shareholders in proportion to their then-current
+aggregate shareholdings in the Company, unless otherwise agreed between such
+acquiring Shareholders.
+
+For the avoidance of doubt, if (and only when it is obvious that) the Company
+or the Shareholders do not use their redemption right as set above in full,
+the Transferring Shareholder has the right to Transfer his Shares (or part of
+them that have not been acquired under this Section 9.2) to a third party
+under the terms of the above Transferring Shareholder.s notice to other
+Shareholders and the Company. This right of the Transferring Shareholder to
+Transfer his Shares shall be valid for ninety (90) days from the end of the
+above fourteen (14) days period given to other Shareholders ended. After the
+above ninety (90) days period the Transferring Shareholder shall not have the
+right to Transfer its/his Shares without recommencing the procedure under this
+Section 9.2.
+
+##  9.3             Adherence Agreement
+
+All sales and other Transfers of the Shares shall always be conditional upon
+the transferee committing to adhere to this Agreement (as the Shareholder and,
+when applicable, as the Investor or as the Working Shareholder) and/or to the
+possible minority shareholders. agreement regarding the Company in accordance
+with the decision of the Board of Directors of the Company (subject to the
+consent of a member of the Board of Directors appointed by the holders of the
+Series A Shares) by signing a separate adherence agreement. The adherence
+agreement approved and executed by the Board of Directors shall be binding on
+all the Parties. For the avoidance of doubt, it is stated that no separate
+consent shall be required due to the adherence of a third party to this
+Agreement and/or the possible minority shareholders. agreement, if the terms
+and conditions of this Agreement are complied with. The Board of Directors of
+the Company has also the right, subject to the consent of a member of the
+Board of Directors appointed by the holders of the Series A Shares, to agree
+with the third party on exceptions to the non-competition undertaking of this
+Agreement and/or the possible minority shareholders. agreement.
+
+#  10.             INFORMATION RIGHTS
+
+##  10.1         Basic Financial Information 
+
+In addition to any and all information rights of the shareholders generally
+under the Finnish Companies Act, the Company will furnish to each Investor
+when available:
+
+####  (a)               annual unaudited financial statements for each
+financial period of the Company, including an unaudited balance sheet as of
+the end of such financial period, an unaudited statement of operations and an
+unaudited statement of cash flows of the Company for such year, all prepared
+in accordance with generally accepted accounting principles and practices in
+Finland; and
+
+####  (b)              quarterly unaudited financial statements for each
+quarter of the Company, excluding the last quarter of the Company.s accounting
+period, including an unaudited balance sheet as of the end of such quarter, an
+unaudited statement of operations and an unaudited statement of cash flows of
+the Company for such quarter, all prepared in accordance with generally
+accepted accounting principles and practices in Finland, subject to changes
+resulting from normal year-end audit adjustments. 
+
+The Company shall provide the Investors with audited records of any of the
+foregoing, if available.
+
+##  10.2         Inspection Rights 
+
+The Company shall upon written request of each Investor allow an Investor to
+visit and inspect the Company.s properties, to examine its books of account
+and records, to take copies thereof and to discuss the Company.s affairs,
+finances and accounts with its officers, all at such reasonable times as may
+be requested by such Investor.
+
+#  11.             CONFIDENTIALITY 
+
+Each Party undertakes to keep confidential and will not disclose, divulge, or
+use for any purpose other than for exercising his rights hereunder terms of
+this Agreement and any confidential information (whether or not marked as
+confidential) obtained from the Company pursuant to the terms of this
+Agreement other than to any of the Parties. attorneys, accountants,
+consultants, and other professionals, to the extent necessary for exercising
+his rights hereunder.
+
+Each Shareholder has the right, notwithstanding the above confidentiality
+undertaking and without the other Parties consent, to disclose the information
+or the state of affair to third parties or to publish the information, if the
+Shareholder in question has an obligation to do that pursuant to the
+compulsory laws or regulations, or when authorized by the Company.s Board of
+Directors, or, subject to a separate confidentiality undertaking which is
+materially consistent with the terms of this Section 11, when Transferring the
+Shares to third parties under Section 9.
+
+The Shareholders agree to keep in confidence the confidential information
+during the validity of this Agreement and three (3) years after any
+termination or expiration of this Agreement.
+
+#  12.             NON-COMPETITION AND NON-SOLICITATION
+
+The Working Shareholders shall during the validity of this Agreement and for a
+period of one (1) year after he Transferred all his Shares not to compete,
+directly or indirectly, with the business of the Company or the companies
+belonging to the same group. The above includes also the Working Shareholders
+acting, directly or indirectly, as an employee, consult, shareholder, member
+of the Board of Directors, advisor or in any other role in a company competing
+with the business of the Company or the companies belonging to the same group
+with the Company. The Working Shareholders shall not be allowed to offer,
+produce or order services for the customers of the Company or the companies
+belonging to the same group with the Company in the field of the business of
+the Company. Also, the preparation and the commencement of any competing
+business by the Working Shareholders are not allowed during the above non-
+competition period.
+
+During the validity of this Agreement and for a period of one (1) years after
+he Transferred all his Shares, the Shareholders other than the Investors shall
+not directly or indirectly solicit the employees or consultants of the Company
+or the companies belonging to the same group with the Company.
+
+The Shareholders expressly hereby warrant that this Section 12 is fair and
+reasonable in all parts and that it does not unreasonably prohibit them to be
+employed or get their living without breaching the prohibition of competition.
+
+The Board of Directors shall have the right, at the justified request made by
+the Shareholder in writing, to agree on exceptions (also in the adherence
+agreement(s)) to the above non-competition and non-solicitation undertakings
+on a case by case basis, subject to the written consent of a member of the
+Board of Directors appointed by holders of the Series A Shares.
+
+#  13.             INTELLECTUAL PROPERTY RIGHTS
+
+For the purposes of this Agreement .**Intellectual Property Rights**. shall
+mean shall mean copyrights (excluding paternity rights), copyright related
+rights, know-how, trademarks, domain-names, utility models, logos and trade
+names, product descriptions, patents, innovations, discoveries, trade secrets,
+ideas, methods, rights in designs, computer software, and scientific,
+technical and product information relating to the Company (and any of its
+affiliate) or arising from the business of the Company (and any of its
+affiliates) regardless of whether registered or not and including application
+for grant of any of the foregoing and all rights or forms of protection having
+equivalent or similar effect to any of the foregoing which may now or at any
+time hereafter anywhere in the world.
+
+The Parties acknowledge and agree that the essential condition of this
+Agreement is that the Company shall have, without any separate compensation,
+all the right, title and interest in and to all the Intellectual Property
+Rights arising out of the business of the Company and its affiliates which are
+developed or generated prior to or after the execution of this Agreement based
+on the Working Shareholder.s employment, whether through a third party company
+or otherwise, and in and to all the results of the Working Shareholder.s work.
+The Working Shareholders agree without any delay to transfer all such rights
+and rights to amend, change, further develop, assign, license or otherwise
+transfer to third parties the objects of such rights as the Company deems
+best, pursuant to this Agreement and the employment, director or any other
+contractual relationship of the Working Shareholder without any compensation
+payable by the Company or the affiliates to the maximum extent allowed by
+applicable laws. The Working Shareholder shall irrevocably and unconditionally
+waive all the claims relating to any Intellectual Property Rights transferred
+under this Section 13 or the utilisation thereof against the Company or the
+affiliates.
+
+The Company and the affiliates shall have an exclusive right to utilize the
+said results and the Intellectual Property Rights transferred under this
+Section 13 commercially and industrially, transfer them to third parties,
+amend and further develop them without a separate consent of a respective
+Working Shareholder. In accordance with what has been set forth above, the
+Company and the affiliates shall always have the right to use the results or
+the Intellectual Property Rights of the performed work also after the
+termination of the employment of the Working Shareholder or termination of any
+other agreement regarding work for the Company and/or the affiliates.
+
+#  14.             TERM
+
+This Agreement shall come into force with respect to each of the Parties on
+the Effective Date and with respect to each new Shareholder by means of the
+signature of a separate adherence agreement.
+
+This Agreement is in force as long as more that one Shareholder owns Shares
+and it shall terminate with respect of each Shareholder (save for the sections
+of this Agreement which are intended to survive any termination of this
+Agreement, including Sections 11, 12 and 13) when he has Transferred all his
+Shares in accordance with the terms and conditions of this Agreement.  For the
+sake of clarity any Transfer of Shares in breach of this Agreement shall not
+terminate this Agreement with respect to such Shareholder.
+
+#  15.             MISCELLENEOUS
+
+##  15.1          Further Assurances
+
+Each of the Parties shall execute such documents and take such actions as may
+be reasonably required or desirable to carry out the provisions hereof and the
+transactions contemplated hereby.
+
+The Shareholders shall not enter into any other shareholders. agreement or be
+bound towards any Shareholder by way of any other commitment or agreement with
+respect to the Shares and/or the Company unless all the Shareholders are
+parties of such agreement (such as a separate minority shareholders.
+agreement) or other commitment.
+
+##  15.2         Amendment; Waiver
+
+Any changes to this Agreement may be made only in writing and signed by the
+duly authorized representatives of the Parties, save for adherence of new
+Shareholder in accordance with Section 9.3. Any other amendments shall be
+void.
+
+Failure by any Party at any time or times to require performance of any
+provision of this Agreement shall in no manner affect its right to enforce the
+same, and the waiver by any Party of any breach of any provision of this
+Agreement shall not be construed to be a waiver by such Party of any
+succeeding breaches of such provision, or waiver by such party of any breach
+of any other provision hereof.
+
+##  15.3         Notices
+
+All notices and other communications given or made pursuant to this Agreement
+shall be in writing and shall be deemed effectively given upon the earlier of
+actual receipt or: 
+
+####  (a)    personal delivery to the party to be notified,
+
+####  (b)   when sent, if sent by facsimile during normal business hours of
+the recipient, and if not sent during normal business hours, then on the
+recipient.s next business day,
+
+####  (c)    five (5) business days after having been sent by registered or
+certified mail, return receipt requested, postage prepaid, or
+
+####  (d)   one (1) business day after deposit with a nationally recognized
+overnight courier, freight prepaid, specifying next business day delivery,
+with written verification of receipt. 
+
+All communications shall be sent to the respective parties at their address as
+set forth in Section 1 of this Agreement or as set forth in a separate
+adherence agreement, or as informed by the Parties otherwise, or to such
+address or facsimile number as subsequently notified by a respective Party by
+a written notice and such notice shall be deemed given when received by the
+other Parties in accordance with this Section 15.3.
+
+##  15.4         Entire Agreement
+
+This Agreement and the documents referred to herein, together with all the
+exhibits hereto, constitute the entire agreement and understanding of the
+Parties with respect to the subject matter of this Agreement, and supersede
+any and all prior understandings and agreements, whether oral or written,
+between or among the parties hereto with respect to the specific subject
+matter hereof.
+
+The Parties agree that in case of conflict between this Agreement and the
+Articles of Association or this Agreement and Finnish Companies Act (save for
+any statutory stipulations), this Agreement shall prevail.
+
+##  15.5         Severability
+
+If any provision of this Agreement shall be found by any court of competent
+jurisdiction to be invalid or unenforceable, the Parties hereby waive such
+provision to the extent that it is found to be invalid or unenforceable. Such
+provision shall, to the maximum extent allowable by law, be modified by such
+court so that it becomes enforceable as close to the original provision as
+possible, and, as modified, shall be enforced as any other provision hereof,
+all the other provisions hereof continuing in full force and effect.
+
+##  15.6         Assignment
+
+This Agreement shall be binding upon and inure to the benefit of the Parties
+and nothing in this Agreement, express or implied, shall constitute any rights
+or remedies to any third parties under this Agreement.
+
+Any attempt without such permission to assign, transfer, delegate or
+sublicense any rights, duties or obligations that arise under this Agreement
+shall be void.  Subject to the foregoing, and except as otherwise provided
+herein, this Agreement, and the rights and obligations of the Parties
+hereunder, will be binding upon and inure to the benefit of their respective
+successors, assigns, heirs, executors, administrators and legal
+representatives.
+
+##  15.7         Titles, Gender and Headings
+
+The titles, gender captions and headings of this Agreement are included for
+ease of reference only and will be disregarded in interpreting or construing
+this Agreement. 
+
+##  15.8          Attorneys. Fees
+
+All the costs and expenses relating to the drafting of this Agreement, the
+Investment Agreement and execution of transactions contemplated herein shall
+be borne by the Company. Each Shareholder shall bear his own advisor.s fees,
+costs and expenses in full, save for the Company shall reimburse counsel to
+the Investors (excluding any new Investor adhering to this Agreement by means
+of a separate adherence agreement) for fees incurred in connection with the
+investment in the Company.s Shares, which shall not exceed EUR [add].
+
+##  15.9         Governing Law
+
+This Agreement shall be governed by, and construed in accordance with, the
+laws Finland, excluding any conflicts of law rules.
+
+##  15.10     Arbitration
+
+All controversies and disputes arising out of or in connection with this
+Agreement shall be settled amicably. All disputes which can not be settled
+amicably between the Parties shall be finally settled by arbitration in
+accordance with the Finnish Arbitration Act. The arbitral tribunal shall be
+composed of one arbitrator appointed by the Finnish Central Chamber of
+Commerce. The place of arbitration shall be Helsinki and the language of
+arbitration shall be English unless all parties to the dispute agree
+otherwise. Evidence may also be submitted in Finnish and witnesses heard in
+Finnish. The arbitrator shall render his/her decision within six (6) months
+from the appointment.
+
+Any Party may, irrespective of any arbitral proceedings, apply to a court
+having jurisdiction for a temporary restraining order or preliminary
+injunction where such relief is necessary to protect his rights under this
+Agreement.
+
+[_SIGNATURE PAGE TO FOLLOW_]
+
+
+This Agreement may be executed in any number of counterparts, each of which
+when so executed and delivered will be deemed an original, and all of which
+together shall constitute one and the same agreement.
+
+_______________________________________
+
+_______________________________________
+
+Name:
+
+Title:
+
+Name:
+
+Title:
+
+_______________________________________
+
+_______________________________________
+
+Name:
+
+Title:
+
+Name:
+
+Title:
+
+_______________________________________
+
+_______________________________________
+
+Name:
+
+Title:
+
+Name:
+
+Title:
+
