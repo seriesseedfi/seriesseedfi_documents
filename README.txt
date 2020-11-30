@@ -17,6 +17,11 @@ See the site for more information: http://seriesseed.fi
 
 CHANGELOG
 
+30.11.2020 - Version 3.0 of documents published. 
+Contributors: Erik Byrenius and Kimmo Reina / Bird & Bird Attorneys.
+This document is based on a cooperation between SeriesSeed.fi and the
+StartupTools.org documents (by Erik Byrenius and Mattias Larsson).
+
 07.04.2016 - Version 2.0 of documents published. Jaakko
 Lindgren & Tuomas Honkinen from http://www.dottir.fi/
 
