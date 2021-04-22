@@ -1,0 +1,39 @@
+Yhtiöllä voi olla kaksi osakesarjaa: A- ja B-sarja. Kummankin osakesarjan
+osake tuottaa yhden (1) äänen. Yhtiön erilajiset osakkeet eroavat alla
+kuvatun mukaisesti.
+
+Jaettaessa yhtiön varoja tai saatuja vastikkeita likvidaatiotilanteessa eri
+osakelajit tuottavat oikeuden yhtiön varoihin tai saatuun vastikkeeseen
+seuraavasti:
+
+(a) Ensisijaisesti jaetaan B-sarjan haltijoille suurempi seuraavista: (i)
+alkuperäinen merkintähinta jokaisesta B-sarjan osakkeesta, lisättynä
+päätetyillä mutta maksamattomilla B-sarjan osingoilla; tai (ii) summa jonka
+B-sarjan omistaja olisi saanut jos B-sarjan osakkeet olisi muunnettu A-sarjan
+osakkeiksi välittömästi ennen likvidaatiotilannetta.
+
+(b) Toiseksi, jäljelle jäävät varat tai vastike jaetaan A-sarjan osakkeen
+omistajille keskinäisen omistussuhteen mukaisessa suhteessa.
+
+B-sarjan osakkeenomistajillla on oikeus vaihtaa B-sarjan osakkeensa A-sarjan
+osakkeiksi. Osakkeiden vaihtamista koskeva vaatimus tulee tehdä kirjallisesti
+hallitukselle. Osakkeiden vaihtosuhde on 1:1, kuitenkin huomioiden
+vaihtosuhteen korjaamisen mahdollisten osakkeiden splittien tai käänteiset
+splittien, tai muiden vastaavien järjestelyjen vuoksi.
+
+Likvidaatiotilanteilla tarkoitetaan:
+
+(i) olennaisin osin kaikkien yhtiön osakkeiden myyntiä ulkopuoliselle taholle
+
+(ii) yhtiön osakkeiden myyntiä nykyiselle osakkeenomistajalle niin että
+myydyksi tulee olennaisin osin kaikki osakkeet mitä ostavalla
+osakkeenomistajalla ei vielä ole hallussaan
+
+(iii) olennaisin osin kaikkien yhtiön varojen myyntiä, siirtoa tai
+yksinoikeudella lisenssointia
+
+(iv) sulautumista, uudelleenjärjestelyä tai konsolidaatiota, jonka seurauksena
+nykyisten osakkeenomistajien omistusosuus tippuu alle 50%:iin järjestelyssä
+jäävistä tai syntyvistä yhtiöistä
+
+(v) yhtiön selvitystilaa, purkamista ja konkurssia.
